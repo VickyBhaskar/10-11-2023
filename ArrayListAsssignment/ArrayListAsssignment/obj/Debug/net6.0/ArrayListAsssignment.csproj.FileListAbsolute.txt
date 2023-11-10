@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\bin\Debug\net6.0\ArrayListAsssignment.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\bin\Debug\net6.0\ArrayListAsssignment.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\bin\Debug\net6.0\ArrayListAsssignment.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\bin\Debug\net6.0\ArrayListAsssignment.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\bin\Debug\net6.0\ArrayListAsssignment.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ArrayListAsssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ArrayListAsssignment.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ArrayListAsssignment.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ArrayListAsssignment.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ArrayListAsssignment.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\refint\ArrayListAsssignment.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ArrayListAsssignment.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ArrayListAsssignment.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\10-11-2023\ArrayListAsssignment\ArrayListAsssignment\obj\Debug\net6.0\ref\ArrayListAsssignment.dll
